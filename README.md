@@ -9,4 +9,4 @@ Mean: https://earthobservatory.nasa.gov/world-of-change/DecadalTemp
 ##### You can show and hide the lines from it's label above
 
 
-![alt text](https://imgur.com/pVzLhxg)
+![alt text](https://i.imgur.com/pVzLhxg.png)
