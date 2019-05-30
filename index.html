@@ -14,7 +14,6 @@
   <canvas id="chart"></canvas>
 
   <script>
-    
     // Data from: https://data.giss.nasa.gov/gistemp/
     // Mean from: https://earthobservatory.nasa.gov/world-of-change/DecadalTemp
 
@@ -75,7 +74,7 @@
         for (let i = 0; i < months.length; i++) {
           const month = months[i];
           const temp = column[i + 1];
-          temps.push(parseFloat(temp));
+          temps.push(parseFloat(temp + 14));
         }
         tempys.push(temps);
       });
